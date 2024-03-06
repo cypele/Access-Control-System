@@ -86,6 +86,8 @@ Mobile Application Functionality:
 •	Upon opening the application, users can choose the device they are interested in. Then the application connects to the TCP server and should collect data from ESP8266 and display relevant device information. However, this functionality is not working due to communication issues between ESP8266 and Pico.
 
 
+![image](https://github.com/cypele/Access-Control-System/assets/124002511/ba98a711-b073-4b02-bb04-8ab640dca01a)
+![image](https://github.com/cypele/Access-Control-System/assets/124002511/66d9b2a7-281d-47ec-8070-950cd9f1626a)
 
 
 
@@ -103,18 +105,18 @@ Mobile Application Functionality:
 
 
 
-
-\\
 
 
 TCP Server Functionality:
 •	The server aims to provide communication between the access control system and the internet, as well as transmitting information to the mobile application.
 
-      
+![image](https://github.com/cypele/Access-Control-System/assets/124002511/f18aa20a-be95-4d46-b6ed-de582b7bce3f)
+
 
 Testing: During testing, I used two battery packs to simulate power supply from the building power line.
 
- 
+ ![image](https://github.com/cypele/Access-Control-System/assets/124002511/009c4179-ea45-4d2e-938d-515d26c7f754)
+
 
 
 
@@ -130,6 +132,8 @@ MAX485 Datasheet https://www.analog.com/media/en/technical-documentation/data-sh
 RDM6300 Datasheet https://elty.pl/upload/download/RFID/RDM630-Spec.pdf
 
 Raspberry Pi Pico - https://www.raspberrypi.com/products/raspberry-pi-pico/
+![image](https://github.com/cypele/Access-Control-System/assets/124002511/4915612b-c439-44f0-af01-b57a397788cc)
+![image](https://github.com/cypele/Access-Control-System/assets/124002511/c3558108-4205-4349-a92d-35e6d7de6548)
 
  
 
