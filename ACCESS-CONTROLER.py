@@ -31,7 +31,6 @@ info = "Controlling access to office main door"
 name = "Device1"
 device1 = Device(mac_address, info, name)
 request = ""
-#print (device1)
 
 
 def open_door():
