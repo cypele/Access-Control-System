@@ -129,21 +129,6 @@ def check_access_listen(uart):
                     print("sent false")
                     break 
 
-
-datson='123'
-count = 0
-
-# while True:
-#     uart1.write(datson)
-#     led.toggle()
-#     time.sleep(1)
-#     led.toggle()
-#     time.sleep(1)
-#     count = count + 1
-#     if count >= 10:
-#         break
-#     else:
-#         pass
 while True:
     request_self_introduction()
     temp = listen_for_respond(uart0)
